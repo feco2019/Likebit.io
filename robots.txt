@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /forms/
+Disallow: /roundcube/
+Allow: /assets/img/logo.png
+Sitemap: https://likebit.io/sitemap.xml
